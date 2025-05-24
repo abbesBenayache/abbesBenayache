@@ -1,44 +1,32 @@
-# 🚀 Senior Fullstack & Blockchain Developer
+## 👨‍💻 Abbes Benayache
+**Senior Fullstack & Blockchain Engineer** • **SDK Architect** • **Developer Experience Specialist**
 
-**Developer Experience Engineer @ [iExec](https://iex.ec) | SDK Architect | Web3 Tools Builder**
+🚀 **Transforming complex blockchain technology into developer-friendly solutions**
 
-Spécialisé dans la création d'outils et SDKs qui simplifient l'adoption blockchain pour les développeurs.
+### 🎯 What I Do
+Building **SDKs**, **tools**, and **experiences** that make Web3 accessible to developers worldwide.
 
-## 🛠️ Contributions majeures
+### 💡 Core Expertise
+```
+Frontend: React • TypeScript • Next.js • Vite
+Backend:  Node.js • GraphQL • REST APIs • Microservices  
+Web3:     Solidity • Ethereum • Smart Contracts • DeFi
+DevOps:   CI/CD • Docker • Testing (Jest/Playwright)
+```
 
-**SDKs & Developer Tools**
-- [**iExec SDK**](https://github.com/iExecBlockchainComputing/iexec-sdk) - CLI & JS library (JavaScript/TypeScript)
-- [**Web3Mail SDK**](https://github.com/iExecBlockchainComputing/web3mail-sdk) - Messaging Web3 préservant la confidentialité
-- [**DataProtector SDK**](https://github.com/iExecBlockchainComputing/dataprotector-sdk) - Protection & monétisation de données
-- [**iApp CLI**](https://github.com/iExecBlockchainComputing/iapp) - Outil de développement dApps
+### 🛠️ Key Contributions @ iExec
+**[iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk)** - Main JavaScript SDK for decentralized computing  
+**[Web3Mail SDK](https://github.com/iExecBlockchainComputing/web3mail-sdk)** - Privacy-preserving messaging solution  
+**[DataProtector SDK](https://github.com/iExecBlockchainComputing/dataprotector-sdk)** - Confidential data monetization  
+**[Interactive Demos](https://github.com/iExecBlockchainComputing/web3mail-usecase-demo)** - React showcases & sandboxes
 
-**Frontend & Sandboxes**
-- [**Demo Applications**](https://github.com/iExecBlockchainComputing/web3mail-usecase-demo) - React/TypeScript showcases
-- [**Interactive Sandboxes**](https://github.com/iExecBlockchainComputing/dataprotector-sandbox) - Vite/React environments
-- UI/UX pour masquer la complexité blockchain
+### 📊 Impact
+✅ **100+ projects** accelerated with simplified blockchain integration  
+✅ **70% reduction** in developer onboarding time  
+✅ **Full-stack solutions** from smart contracts to user interfaces
 
-**Backend & Infrastructure**
-- [**PoCo Subgraph**](https://github.com/iExecBlockchainComputing/PoCo-subgraph) - GraphQL indexing
-- APIs RESTful & microservices
-- Smart contracts integration
-
-## 💻 Stack
-
-**Frontend:** React, TypeScript, Next.js, Vite  
-**Backend:** Node.js, GraphQL, REST APIs  
-**Blockchain:** Solidity, Ethereum, Web3.js, The Graph  
-**DevOps:** Docker, CI/CD (GitHub Actions/Drone), Jest, Playwright  
-
-## 🎯 Impact
-
-- **100+ projets** facilités dans l'intégration blockchain
-- **70% réduction** du temps d'onboarding développeur
-- **Documentation technique** et support communauté
-- **Tests E2E** et monitoring performance
-
-## 📊 Méthodo
-
-**User-Centric Development** • **Feedback Loops** • **CI/CD Automation** • **Performance Monitoring**
+### 🧠 Approach
+**User-first development** • **Clean architecture** • **Performance optimization** • **Developer happiness**
 
 ---
-*Transforming blockchain complexity into developer-friendly solutions*
+💬 *Always interested in discussing innovative blockchain solutions and developer tooling*
