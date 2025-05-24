@@ -1,99 +1,44 @@
-# 👋 Senior Fullstack & Blockchain Developer
+# 🚀 Senior Fullstack & Blockchain Developer
 
-**Architecte de solutions blockchain innovantes | Expert en développement d'outils pour développeurs | Spécialiste de l'écosystème Web3**
+**Developer Experience Engineer @ [iExec](https://iex.ec) | SDK Architect | Web3 Tools Builder**
 
-Ingénieur fullstack passionné par la blockchain et l'innovation technologique, je me spécialise dans la création d'outils et SDK qui simplifient l'adoption des technologies décentralisées.
+Spécialisé dans la création d'outils et SDKs qui simplifient l'adoption blockchain pour les développeurs.
 
-## 🚀 Expérience chez iExec
+## 🛠️ Contributions majeures
 
-**Fullstack Developer & Developer Experience Engineer** chez [iExec](https://iex.ec) - Leader du cloud computing décentralisé
+**SDKs & Developer Tools**
+- [**iExec SDK**](https://github.com/iExecBlockchainComputing/iexec-sdk) - CLI & JS library (JavaScript/TypeScript)
+- [**Web3Mail SDK**](https://github.com/iExecBlockchainComputing/web3mail-sdk) - Messaging Web3 préservant la confidentialité
+- [**DataProtector SDK**](https://github.com/iExecBlockchainComputing/dataprotector-sdk) - Protection & monétisation de données
+- [**iApp CLI**](https://github.com/iExecBlockchainComputing/iapp) - Outil de développement dApps
 
-### 🛠️ Architectures & Solutions développées
+**Frontend & Sandboxes**
+- [**Demo Applications**](https://github.com/iExecBlockchainComputing/web3mail-usecase-demo) - React/TypeScript showcases
+- [**Interactive Sandboxes**](https://github.com/iExecBlockchainComputing/dataprotector-sandbox) - Vite/React environments
+- UI/UX pour masquer la complexité blockchain
 
-- **SDK & Outils pour développeurs** : Conception et développement d'outils facilitant l'intégration blockchain
-- **Solutions DX (Developer Experience)** : Amélioration continue de l'expérience développeur via feedback et itérations
-- **Sandboxes interactifs** : Environnements de test et démonstration pour l'adoption rapide
-- **Use cases & Démos frontend** : Applications pratiques montrant le potentiel des technologies
+**Backend & Infrastructure**
+- [**PoCo Subgraph**](https://github.com/iExecBlockchainComputing/PoCo-subgraph) - GraphQL indexing
+- APIs RESTful & microservices
+- Smart contracts integration
 
-### 💡 Contributions techniques clés
+## 💻 Stack
 
-**🔧 SDK Development & Tooling**
-- Développement du **iExec SDK** - Kit de développement JavaScript/CLI pour interactions blockchain
-- **Web3Mail SDK** - Solution de messagerie Web3 préservant la confidentialité
-- **DataProtector SDK** - Protection et monétisation des données sensibles
-- **iApp CLI** - Outil de développement simplifiant la création d'applications décentralisées
+**Frontend:** React, TypeScript, Next.js, Vite  
+**Backend:** Node.js, GraphQL, REST APIs  
+**Blockchain:** Solidity, Ethereum, Web3.js, The Graph  
+**DevOps:** Docker, CI/CD (GitHub Actions/Drone), Jest, Playwright  
 
-**🌐 Frontend & UX/UI**
-- Sandboxes interactifs (React/TypeScript/Vite) pour démonstrations en temps réel
-- Interfaces utilisateur intuitives masquant la complexité blockchain
-- Applications démo showcasing les use cases métier
+## 🎯 Impact
 
-**⚙️ Backend & Infrastructure**
-- APIs RESTful et services backend robustes
-- Intégration avec smart contracts et protocoles blockchain
-- Architecture microservices et déploiements cloud
+- **100+ projets** facilités dans l'intégration blockchain
+- **70% réduction** du temps d'onboarding développeur
+- **Documentation technique** et support communauté
+- **Tests E2E** et monitoring performance
 
-**📊 GraphQL & Subgraphs**
-- **PoCo Subgraph** - Indexation et requêtage des données blockchain
-- APIs GraphQL pour accès optimisé aux données décentralisées
+## 📊 Méthodo
 
-**📚 Documentation & DevRel**
-- Documentation technique complète et accessible
-- Guides d'intégration et tutoriels développeurs
-- Support et formation communauté développeurs
-
-## 🔥 Stack Technique
-
-**Frontend & UI**
-- React, TypeScript, Next.js, Vite
-- HTML5, CSS3, JavaScript ES6+
-- Responsive design & mobile-first
-
-**Backend & APIs**
-- Node.js, Express, RESTful APIs
-- GraphQL, Apollo Server
-- Microservices architecture
-
-**Blockchain & Web3**
-- Solidity, Smart Contracts
-- Ethereum, Web3.js, Ethers.js
-- The Graph Protocol, Subgraphs
-- DeFi, NFTs, DAOs
-
-**Outils & DevOps**
-- Git, GitHub Actions, Drone CI/CD
-- Docker, Kubernetes
-- Jest, Playwright (E2E testing)
-- Monitoring & Analytics
-
-## 🎯 Approche méthodologique
-
-**🔍 User-Centric Development**
-- Mise en situation utilisateur pour optimiser l'expérience
-- Itérations basées sur les retours développeurs
-- Tests utilisateurs et amélioration continue
-
-**🧪 Tests & Qualité**
-- Tests unitaires et d'intégration
-- Tests end-to-end avec Playwright
-- Code review et bonnes pratiques
-
-**📈 Déploiement & Monitoring**
-- CI/CD automatisé via GitHub Actions
-- Monitoring performances et usage
-- Métriques d'adoption et feedback loops
-
-## 🎪 Impact & Résultats
-
-- **Adoption développeur** : Facilitation de l'intégration blockchain pour 100+ projets
-- **Developer Experience** : Réduction du temps d'onboarding de 70%
-- **Écosystème** : Contribution à l'expansion de l'écosystème iExec via outils accessibles
-- **Innovation** : Solutions pionnières en confidential computing et Web3 messaging
-
-## 🌟 Vision
-
-Passionné par la démocratisation des technologies blockchain, je m'efforce de créer des outils qui rendent l'innovation accessible au plus grand nombre. Mon objectif : transformer la complexité technique en solutions élégantes et utilisables.
+**User-Centric Development** • **Feedback Loops** • **CI/CD Automation** • **Performance Monitoring**
 
 ---
-
-*🔗 Toujours ouvert aux discussions sur l'innovation blockchain, l'architecture logicielle et les défis techniques passionnants !*
+*Transforming blockchain complexity into developer-friendly solutions*
