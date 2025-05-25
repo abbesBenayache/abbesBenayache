@@ -39,7 +39,6 @@ I architect solutions that simplify blockchain technology adoption for developer
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF04D?style=flat-square&logo=ethereum&logoColor=black)
 ![The Graph](https://img.shields.io/badge/-The%20Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white)
 ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
