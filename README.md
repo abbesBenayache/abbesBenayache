@@ -1,6 +1,6 @@
 **Hi 👋 My name is Abbes Benayache**
 
-**Blockchain Solutions Architect & SDK Developer**
+**Full-Stack Web3 Developer**
 
 I architect solutions that simplify blockchain technology adoption for developers. I started with fullstack development and evolved into blockchain engineering, from traditional web apps to decentralized applications, from simple smart contracts to complex SDK architectures and developer tooling.
 
@@ -8,7 +8,7 @@ I architect solutions that simplify blockchain technology adoption for developer
 * 🔭  I'm currently working at **@iExecBlockchainComputing**
 * 🧠  I'm learning **Advanced Cryptography and ZK-proofs**
 * 🤝  I'm open to collaborating on **innovative blockchain projects**
-* ⚡  **SDK Architect** specializing in **Developer Experience**
+* ⚡  **SDK Creator** building **developer-friendly tools**
 
 ## 🛠️ Technical Stack
 
@@ -31,7 +31,15 @@ I architect solutions that simplify blockchain technology adoption for developer
 
 **Blockchain & Web3:**
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/-Viem-000000?style=flat-square&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/-Wagmi-1C1B1B?style=flat-square&logo=ethereum&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/-RainbowKit-FF6B6B?style=flat-square&logo=ethereum&logoColor=white)
+![Reown](https://img.shields.io/badge/-Reown-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF04D?style=flat-square&logo=ethereum&logoColor=black)
+![The Graph](https://img.shields.io/badge/-The%20Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
 
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
